@@ -1,0 +1,22 @@
+D:\компьютерка С_С++_С#\nloknot\nloknot\bin\Debug\nloknot.exe.config
+D:\компьютерка С_С++_С#\nloknot\nloknot\bin\Debug\nloknot.exe
+D:\компьютерка С_С++_С#\nloknot\nloknot\bin\Debug\nloknot.pdb
+D:\компьютерка С_С++_С#\nloknot\nloknot\obj\Debug\nloknot.csproj.AssemblyReference.cache
+D:\компьютерка С_С++_С#\nloknot\nloknot\obj\Debug\nloknot.csproj.SuggestedBindingRedirects.cache
+D:\компьютерка С_С++_С#\nloknot\nloknot\obj\Debug\nloknot.Form1.resources
+D:\компьютерка С_С++_С#\nloknot\nloknot\obj\Debug\nloknot.Properties.Resources.resources
+D:\компьютерка С_С++_С#\nloknot\nloknot\obj\Debug\nloknot.csproj.GenerateResource.cache
+D:\компьютерка С_С++_С#\nloknot\nloknot\obj\Debug\nloknot.csproj.CoreCompileInputs.cache
+D:\компьютерка С_С++_С#\nloknot\nloknot\obj\Debug\nloknot.exe
+D:\компьютерка С_С++_С#\nloknot\nloknot\obj\Debug\nloknot.pdb
+E:\компьютерка\C-C#-C++\nloknot\nloknot\bin\Debug\nloknot.exe.config
+E:\компьютерка\C-C#-C++\nloknot\nloknot\bin\Debug\nloknot.exe
+E:\компьютерка\C-C#-C++\nloknot\nloknot\bin\Debug\nloknot.pdb
+E:\компьютерка\C-C#-C++\nloknot\nloknot\obj\Debug\nloknot.csproj.AssemblyReference.cache
+E:\компьютерка\C-C#-C++\nloknot\nloknot\obj\Debug\nloknot.exe.config
+E:\компьютерка\C-C#-C++\nloknot\nloknot\obj\Debug\nloknot.Form1.resources
+E:\компьютерка\C-C#-C++\nloknot\nloknot\obj\Debug\nloknot.Properties.Resources.resources
+E:\компьютерка\C-C#-C++\nloknot\nloknot\obj\Debug\nloknot.csproj.GenerateResource.cache
+E:\компьютерка\C-C#-C++\nloknot\nloknot\obj\Debug\nloknot.csproj.CoreCompileInputs.cache
+E:\компьютерка\C-C#-C++\nloknot\nloknot\obj\Debug\nloknot.exe
+E:\компьютерка\C-C#-C++\nloknot\nloknot\obj\Debug\nloknot.pdb
